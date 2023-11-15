@@ -187,12 +187,24 @@ h3{
         margin-top: 300px;
         justify-content: center;
     }
-    
+
     p{
         font-size: 18px;
         font-weight: 100;
         font-family: Arial, Helvetica, sans-serif;
         text-justify: center;
+    }
+    h4{
+        font-family: Arial, Helvetica, sans-serif;
+        color: #000000;
+        font-size: 24px;
+        font-weight: lighter;
+        margin-top: 300px;
+    }
+    h3{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+        font-size: 28px;
     }
     
 }
